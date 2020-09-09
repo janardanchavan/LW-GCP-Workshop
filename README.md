@@ -29,3 +29,12 @@
 - Creating a project in G-WebUI
 - Introduction to Kubernetes
 - A Demo with GKE-Google Kubernetes Engine services
+- Creating Cluster and nodes
+- Managing nodes with kubectl
+- launching a webserver on GCP instance
+- managing containers on GCP
+- managing scalein/scaleout to provide continuous services to the customers
+- Exposing the ports for external access
+- About Google Associate Engineer Program
+- Implementing GCP managed service - SQL
+- Installing and accessing mySQL database
