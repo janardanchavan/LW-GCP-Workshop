@@ -38,3 +38,7 @@
 - About Google Associate Engineer Program
 - Implementing GCP managed service - SQL
 - Installing and accessing mySQL database
+- GCP IAM & Admin User services
+- Creating roles
+- GCP - GAP - GCP APP Engine
+- creating and deploying app with the help of yml file
