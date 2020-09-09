@@ -1,4 +1,4 @@
-# LW-GCP-Workshop
+# GCP-Workshop
 ## Day1 Summary :
 - Introduction to Cloud Computing
 - Various Google Cloud products: GCP, Gmail, YouTube, Google Search
@@ -16,5 +16,10 @@
 - Launcing a project from Gcloud, a Cloud Shell
 - Dashboard - WebUI/Console
 - Associating project with Billing Account
-- Crating API
-- 
+- Creating API
+- Launcing a project from GCP Portal
+- Creating firewall rules
+- VPC Network
+- Computer Engine
+
+## Day2 Summary:
