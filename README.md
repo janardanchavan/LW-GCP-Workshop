@@ -23,3 +23,9 @@
 - Computer Engine
 
 ## Day2 Summary:
+- Downloading GCP SDK for windows/mac
+- Creating an instance through cli
+- Accessing an instance through ssh from putty
+- Creating a project in G-WebUI
+- Introduction to Kubernetes
+- A Demo with GKE-Google Kubernetes Engine services
